@@ -20,7 +20,7 @@ to vendors through coordinated disclosure.
 
 ### 🛡️ Published CVEs
 
-Selected disclosures (more pending assignment):
+Selected disclosures:
 
 **2026:** CVE-2026-1032 · CVE-2026-1370 · CVE-2026-1379 ·
 CVE-2026-1381 · CVE-2026-1831 · CVE-2026-1937 · CVE-2026-1938 ·
@@ -36,5 +36,10 @@ CVE-2025-69246
 *Additional findings are currently under review by vendors and
 awaiting CVE assignment.*
 
+### 🥋 Off the keyboard
+When I’m not coding, you’ll probably find me training Brazilian Jiu-Jitsu 💜, hunting down great food trucks 🌮, exploring Asia 🌏, or playing board games 🎲.
+
 ### 📫 Contact
 Responsible disclosure inquiries welcome.
+
+
