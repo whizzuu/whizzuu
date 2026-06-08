@@ -1,16 +1,40 @@
-## Hi there 👋
+## 👋 About
 
-<!--
-**whizzuu/whizzuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security researcher and penetration tester with several years of
+experience in enterprise environments, including work for **NASK /
+CERT Polska**, Poland's national CSIRT.
 
-Here are some ideas to get you started:
+In my spare time I audit open-source software and contribute findings
+to vendors through coordinated disclosure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Certifications
+- **OSCP+** — Offensive Security Certified Professional
+- **OSWA** — Offensive Security Web Assessor
+
+### 🔬 What I work on
+- **Web application & API security testing**
+- **Infrastructure & network penetration testing**
+- **Wireless security assessments**
+- **Static code analysis**
+- **Open-source security audits**
+
+### 🛡️ Published CVEs
+
+Selected disclosures (more pending assignment):
+
+**2026:** CVE-2026-1032 · CVE-2026-1370 · CVE-2026-1379 ·
+CVE-2026-1381 · CVE-2026-1831 · CVE-2026-1937 · CVE-2026-1938 ·
+CVE-2026-1943
+
+**2025:** CVE-2025-15540 · CVE-2025-69236 · CVE-2025-69237 ·
+CVE-2025-69238 · CVE-2025-69239 · CVE-2025-69240 · CVE-2025-69241 ·
+CVE-2025-69242 · CVE-2025-69243 · CVE-2025-69244 · CVE-2025-69245 ·
+CVE-2025-69246
+
+**2024:** CVE-2024-11623
+
+*Additional findings are currently under review by vendors and
+awaiting CVE assignment.*
+
+### 📫 Contact
+Responsible disclosure inquiries welcome.
